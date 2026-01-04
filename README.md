@@ -1,2 +1,3 @@
 # FrantEnd
-This is a first project
+This is a first project.
+Author - POOJA NISHAD
